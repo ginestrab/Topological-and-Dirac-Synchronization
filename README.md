@@ -1,4 +1,4 @@
-# Topological-and-Dirac-Synchronization
+# Topological-Kuramoto-model-and-Dirac-Synchronization
 
 This repository contains
 
