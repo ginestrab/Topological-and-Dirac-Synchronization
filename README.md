@@ -4,7 +4,7 @@ This repository contains
 
     'Topological_Kuramoto.py' a python code to for 
                                     i) Topological (Simplicial) Kuramoto model for edge signal (with an option for exposive variant);
-                                    ii)Topological Dirac synchronization for nodes edges, traingles signals.
+                                    ii)Topological Dirac synchronization for nodes edges, triangles signals.
 
     'Topological_Kuramoto_Topological_Dirac_synchronization_notebook' a Python notebook for showing the dynamics in simple toy models.
 
